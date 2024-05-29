@@ -6,7 +6,8 @@
 - 📫 How to reach me: rayhangazi1024@gmail.com
 
 ### My Skills
-[![HTML%]]
+[![Button Example]][Link]
+
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raihanjs&theme=darcula)
