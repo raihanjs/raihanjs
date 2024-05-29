@@ -6,7 +6,7 @@
 - 📫 How to reach me: rayhangazi1024@gmail.com
 
 ### My Skills
-[![Button Example]][Link]
+
 
 
 
