@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my profile repository! I am a passionate front-end developer dedicated to building user-friendly and responsive web applications. With experience in technologies like HTML, CSS, JavaScript, React.js, and Next.js  I strive to create engaging digital experiences that prioritize usability and performance.
+Welcome to my profile. I am a passionate front-end developer dedicated to building user-friendly and responsive web applications. With experience in technologies like HTML, CSS, JavaScript, React.js, and Next.js  I strive to create engaging digital experiences that prioritize usability and performance.
 
 This repository features a variety of projects that reflect my journey in front-end development, showcasing my commitment to learning and applying best practices. I aim to continually improve my skills and contribute meaningfully to the web development community.
 
